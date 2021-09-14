@@ -6,9 +6,7 @@
 <p margin-bottom="10px"><h1 align="center" > Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Said Ait Ali  </h1></p>
 <p align="center" margin-top="10px" >
  
-  <a href="https://www.youtube.com/channel/UCpojNxNi-bNhgSQhciefgOQ" target="_blank"><img src="https://img.shields.io/badge/-Mohammed AlEbbi-c21807?style=flat&labelColor=c21807&logo=youtube&link=https://www.youtube.com/channel/UCpojNxNi-bNhgSQhciefgOQ" width="17%"/></a>
-  <a href="https://www.linkedin.com/in/MoSaif00" target="_blank"><img src="https://img.shields.io/badge/-Mohammed Saif-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/MoSaif00//" width="16%"/></a>
- 
+
 </p>
 </br>
  

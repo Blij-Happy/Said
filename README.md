@@ -10,11 +10,10 @@
 </p>
 </br>
  
-   I am a software engineer, I studied in Morocco where I found Programming is a more interesting world, Then I moved to The Netherlands, I learned some new stuff that I really like. since I moved to The Netherlands I started looking for new challenging opportunities.
+   I am a software engineer, I studied in Morocco where I found Data is a more interesting world, Then I moved to The Netherlands, I learned some new stuff that I really like. since I moved to The Netherlands I started looking for new challenging opportunities.
 
-Skills: HTML / CSS / JavaScript / React
+Skills: Python / R / SQL / Safety
 
- 🌱 I’m currently learning Python
 
 <!--
 - 🤔 I’m looking for help with nothing for the moment.

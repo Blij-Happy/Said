@@ -10,9 +10,9 @@
 </p>
 </br>
  
-   I am a software engineer, I studied in Morocco where I found Data is a more interesting world, Then I moved to The Netherlands, I learned some new stuff that I really like. since I moved to The Netherlands I started looking for new challenging opportunities.
-
-Skills: Python / R / SQL / Safety
+  As a visionary problem-solver with a passion for using data to drive positive change and enhance safety, I bring a unique blend of technical skills, industry knowledge, and a commitment to continuous learning to the table. With a fresh perspective, I am dedicated to tackling complex challenges in the industry and finding innovative solutions that prioritize safety. From data analysis to delivering results, my ultimate goal is to make a lasting impact.
+  
+Skills: Python / R / SQL / Data 
 
 
 <!--
